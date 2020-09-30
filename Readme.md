@@ -1,9 +1,6 @@
-### Face Recognition using SVM
+I will be regularly updating this repository to include more tutorials on `Python` with `streamlit` for machine learning and machine vision applications. Below is an overview of available demos. Check the corresponding subfolders for more details, code, and other explanation
+### (1) Face Recognition using SVM
 
-This is a Face Recognition Demo using Support Vector Machines. Interactive features and widgets were created using the great tool [Streamlit](https://www.streamlit.io/). It is an open-source framework, free, Python-based and easy to use tool to build and deploy data-driven and machine learning applications. 
-
-The demo provides three key features 
-* It loads the testing set, view it and show you if the predictions of the SVM model was correct or not as can be seen below
 
 ![alt text](https://github.com/heyad/Teaching/blob/master/SVMFR/figures/gif.gif "Face Recognition")
 
@@ -12,23 +9,13 @@ The demo provides three key features
 ![alt text](https://github.com/heyad/Teaching/blob/master/SVMFR/figures/gifnew.gif "Face Recognition")
 
 
-The repository contains the following files:
+The [SVMFR](SVMFR/)repository contains the following files:
 
 * `streamlitApp.py` this contains the code relevant to streamlit and the functional features 
 * `svm_model.pkl` the SVM model
 *  `SVM.ipynb`, detailed notebook about SVM and FR
 *  `Xy_test` subste of the testing set to run with the demo
 
-#### Requirements 
-
-
-* You need to have Python installed on your machine 
-* The dataset used can be obtained from `sklearn.datasets`
-* You need to have streamlit installed, if not, simply issue the following command  
-
-```
-$pip install streamlit
-```
 
 
 #### Comments / Questions 
