@@ -5,11 +5,12 @@ This is a Face Recognition Demo using Support Vector Machines. Interactive featu
 The demo provides three key features 
 * It loads the testing set, view it and show you if the predictions of the SVM model was correct or not as can be seen below
 
-![gif](SVMFR/figures/gif.fig)
+![alt text](https://github.com/heyad/Teaching/blob/master/SVMFR/figures/gif.gif "Face Recognition")
 
 * •You can also upload new test images of any size. Currently, it accepts `jpg`, `jpeg`, and `png` formats 
 
-![gif](SVMFR/figures/gif.fig)
+![alt text](https://github.com/heyad/Teaching/blob/master/SVMFR/figures/gifnew.gif "Face Recognition")
+
 
 The repository contains the following files:
 
