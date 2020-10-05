@@ -19,7 +19,7 @@ This repository contains the following files:
 
 If you follow the tutorial, you should be able to produce a simple interactive application using Streamlit, that does predictions for you. Notice, that this is not the best predictive model, and also notice that we haven’t tested it (see tutorial), but it provides a good start for learning and developing your skills. 
 
-![alt text](https://github.com/heyad/Teaching/blob/master/SVMFR/figures/gif.gif "Face Recognition")
+![alt text](https://github.com/heyad/Teaching/blob/master/Python-Intro/figure/streamlit.gif "Linear Model")
 
 
 
