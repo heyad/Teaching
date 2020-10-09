@@ -13,7 +13,16 @@ This is a quick demo using SVM to recognise faces from images. It also uses `str
 
 ![alt text](https://github.com/heyad/Teaching/blob/master/SVMFR/figures/gif.gif "Face Recognition")
 
+### (3) Symbols Classification using Random Forests 
 
+The tutorial will focus on classification of symbols, more specifically:
+
+* You will learn how to load, view and classify instances representing 2D images 
+* Create and evaluate A Random Forest Model Classifier (Bagging ensemble-based method) using `sklearn.ensemble.RandomForestClassifie` library. Code is available here as a [Jupyter Notebook](RF/Code)
+* Make predictions and visualise the results 
+* Use streamlit to create an interactive front end to make predictions and view results. The python file that handles the `streamlit` part is [Here](RF/Code/streamlitApp.py). By the end of the tutorial, you will be able to produce something similar to this [Demo](https://youtu.be/5uHn9IpBmTc). You should be able to produce a solution like the one below by the end of this tutorial using Python, streamlit and relevant resources
+* 
+![alt text](https://github.com/heyad/Teaching/blob/master/RF/Figure/gif.gif)
 
 
 #### Comments / Questions 
