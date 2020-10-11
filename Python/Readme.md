@@ -42,6 +42,7 @@ If you are considering digging deeper into the world of data science, machine le
 * Find free datasets for Data Science Projects [Here](https://www.dataquest.io/blog/free-datasets-for-projects/)
 * Good selection of datases from analyticsvidhya [See List](https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/)
 
+[![HitCount](http://hits.dwyl.com/heyad/Teaching.svg)](http://hits.dwyl.com/heyad/Teaching)
 
 
 #### Comments / Questions 
