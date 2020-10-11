@@ -38,7 +38,9 @@ If you are considering digging deeper into the world of data science, machine le
 ### 4. Some Datasets to Use 
 
 * UCI Repository, wide range of [Datasets](https://archive.ics.uci.edu/ml/index.php)
-* Good selection of datases [Here](https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/)
+* Good ideas for DS Projects and Datasets [Project Ideas](https://github.com/NirantK/awesome-project-ideas#covid19)
+* Find free datasets for Data Science Projects [Here](https://www.dataquest.io/blog/free-datasets-for-projects/)
+* Good selection of datases from analyticsvidhya [See List](https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/)
 
 
 
