@@ -19,6 +19,7 @@ This is very gentle introduction to Python Programming. The notebook in this rep
 * Scikit-Learn documentation [sklearn](https://scikit-learn.org/stable/)
 * Seaborn for data visualisation [seaborn library](https://seaborn.pydata.org/)
 * Plotly for data visualisation [Documentation and Examples](https://plotly.com/python/)
+* Beautiful Soup library has great features for web scraping [Beutiful Soup](https://www.pythonforbeginners.com/python-on-the-web/web-scraping-with-beautifulsoup)
 * Get started with Github, first install gits [Install Gist](https://www.jcchouinard.com/install-git/), then you can watch this on how to use github at [Use Github](https://www.youtube.com/watch?v=0fKg7e37bQE&t=518s)
 
 ### 3. Going Deeper into Data Science 
