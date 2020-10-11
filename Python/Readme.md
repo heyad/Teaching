@@ -2,7 +2,7 @@
 
 ### 1. Overview 
 
-This is very gentle introduction to Python Programming. The notebook in this repository introduces you to basic concepts such as variables, strings, dictionary, loops and other basic python concepts. You can download the whole folder and run it in your local machine. You may find the following resources helpful to get you started with Python:
+This is very gentle introduction to Python Programming. The notebook in this repository introduces you to basic concepts such as variables, strings, dictionary, loops and other basic python concepts. You can download the whole folder and run it in your local machine. I will continue to update the resources below, and I hope that you will find it helpful: 
 
 ### 2. Learning Resources 
 
@@ -35,7 +35,10 @@ If you are considering digging deeper into the world of data science, machine le
 
 4. **Machine Learning -Theory-**: Good coverage of theories and principles of machine learning and learning from data (more theoretical, but really useful): [Video Lectures](https://youtu.be/mbyG85GZ0PI)
 
+### 4. Some Datasets to Use 
 
+* UCI Repository, wide range of [Datasets](https://archive.ics.uci.edu/ml/index.php)
+* Good selection of datases [Here](https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/)
 
 
 
