@@ -32,7 +32,6 @@ The tutorial will focus on classification of symbols, more specifically:
 ![alt text](https://github.com/heyad/Teaching/blob/master/RF/Figure/gif.gif)
 
 
-[![HitCount](http://hits.dwyl.com/heyad/Teaching.svg)](http://hits.dwyl.com/heyad/Teaching)
 
 #### Comments / Questions 
 
