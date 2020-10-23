@@ -42,7 +42,48 @@ If you are considering digging deeper into the world of data science, machine le
 * Find free datasets for Data Science Projects [Here](https://www.dataquest.io/blog/free-datasets-for-projects/)
 * Good selection of datases from analyticsvidhya [See List](https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/)
 
-[![HitCount](http://hits.dwyl.com/heyad/Teaching.svg)](http://hits.dwyl.com/heyad/Teaching)
+
+4.1 **Examples of Datasets:**
+
+* Breast Cancer Wisconsin [https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic))
+* Diabetes risk prediction [https://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset.](https://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset.)
+* Thyroid Disease [http://archive.ics.uci.edu/ml/datasets/thyroid+disease](http://archive.ics.uci.edu/ml/datasets/thyroid+disease)
+* Abalone Data Set [http://archive.ics.uci.edu/ml/datasets/Abalone](http://archive.ics.uci.edu/ml/datasets/Abalone)
+* Yeast Data Set [https://archive.ics.uci.edu/ml/datasets/Yeast](https://archive.ics.uci.edu/ml/datasets/Yeast)
+* Page Blocks [https://archive.ics.uci.edu/ml/datasets/Page+Blocks+Classification](https://archive.ics.uci.edu/ml/datasets/Page+Blocks+Classification)
+* Balance Dataset [https://archive.ics.uci.edu/ml/datasets/Balance+Scale](https://archive.ics.uci.edu/ml/datasets/Balance+Scale)
+* Image Segmentation [https://archive.ics.uci.edu/ml/datasets/Image+Segmentation](https://archive.ics.uci.edu/ml/datasets/Image+Segmentation)
+* Liver Disorders [https://archive.ics.uci.edu/ml/datasets/Liver+Disorders](https://archive.ics.uci.edu/ml/datasets/Liver+Disorders)
+* Letter Recognition [https://archive.ics.uci.edu/ml/datasets/Letter+Recognition](https://archive.ics.uci.edu/ml/datasets/Letter+Recognition)
+* Australian Credit Approval [https://archive.ics.uci.edu/ml/datasets/Statlog+%28Australian+Credit+Approval%29](https://archive.ics.uci.edu/ml/datasets/Statlog+%28Australian+Credit+Approval%29)
+* Banknote authentication Data Set [https://archive.ics.uci.edu/ml/datasets/banknote+authentication](https://archive.ics.uci.edu/ml/datasets/banknote+authentication)
+* Speaker Accent Recognition Data Set [https://archive.ics.uci.edu/ml/datasets/Speaker+Accent+Recognition](https://archive.ics.uci.edu/ml/datasets/Speaker+Accent+Recognition)
+* Ecoli Data Set [https://archive.ics.uci.edu/ml/datasets/Ecoli](https://archive.ics.uci.edu/ml/datasets/Ecoli)
+* Activity recognition [https://archive.ics.uci.edu/ml/datasets/Activity+recognition+using+wearable+physiological+measurements](https://archive.ics.uci.edu/ml/datasets/Activity+recognition+using+wearable+physiological+measurements)
+* Rice (Cammeo and Osmancik) Data Set [https://archive.ics.uci.edu/ml/datasets/Rice+%28Cammeo+and+Osmancik%29](https://archive.ics.uci.edu/ml/datasets/Rice+%28Cammeo+and+Osmancik%29)
+* REALDISP Activity Recognition Dataset [https://archive.ics.uci.edu/ml/datasets/REALDISP+Activity+Recognition+Dataset](https://archive.ics.uci.edu/ml/datasets/REALDISP+Activity+Recognition+Dataset)
+* Unmanned Aerial Vehicle (UAV) Intrusion Detection [https://archive.ics.uci.edu/ml/datasets/Unmanned+Aerial+Vehicle+%28UAV%29+Intrusion+Detection](https://archive.ics.uci.edu/ml/datasets/Unmanned+Aerial+Vehicle+%28UAV%29+Intrusion+Detection)
+* Contraceptive Method Choice [https://archive.ics.uci.edu/ml/datasets/Contraceptive+Method+Choice](https://archive.ics.uci.edu/ml/datasets/Contraceptive+Method+Choice)
+* Dermatology Data Set [https://archive.ics.uci.edu/ml/datasets/dermatology](https://archive.ics.uci.edu/ml/datasets/dermatology)
+* Mammographic Mass Data Set [http://archive.ics.uci.edu/ml/datasets/mammographic+mass](http://archive.ics.uci.edu/ml/datasets/mammographic+mass)
+* User Knowledge Modeling Data Set [https://archive.ics.uci.edu/ml/datasets/User+Knowledge+Modeling](https://archive.ics.uci.edu/ml/datasets/User+Knowledge+Modeling)
+* Thoracic Surgery Data [https://archive.ics.uci.edu/ml/datasets/Thoracic+Surgery+Data](https://archive.ics.uci.edu/ml/datasets/Thoracic+Surgery+Data)
+* Statlog (Vehicle Silhouettes) [https://archive.ics.uci.edu/ml/datasets/Statlog+(Vehicle+Silhouettes)](https://archive.ics.uci.edu/ml/datasets/Statlog+(Vehicle+Silhouettes))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #### Comments / Questions 
