@@ -12,7 +12,8 @@ This is very gentle introduction to Python Programming. The notebook in this rep
 * Professoinal Python Book (Free download) [Python Notes](https://books.goalkicker.com/PythonBook/)
 
 * Python Data Science Handbook, Free download [Python Data Science](https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf)
-#### 2.2 Python Video Tutorials * Python for Absolute Beginners, a great youtube channel, all you need about Python [Watch Python for Beginners](https://www.youtube.com/playlist?list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg)
+
+* Bishop Machine Learning Book (Excellent book with in-depth theory) [Pattern Recognition](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)#### 2.2 Python Video Tutorials * Python for Absolute Beginners, a great youtube channel, all you need about Python [Watch Python for Beginners](https://www.youtube.com/playlist?list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg)
 
 * Pandas and Data Frames [pandas tutorial](https://www.youtube.com/watch?v=vmEHCJofslg)#### 2.3 Tools 
 * Jupyter Notebook [Video Overview](https://www.youtube.com/watch?v=HW29067qVWk&t=1436s)
