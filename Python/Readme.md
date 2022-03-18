@@ -35,6 +35,7 @@ If you are considering digging deeper into the world of data science, machine le
 3. A more hands on specialisation using TensorFlow, it is also provided by Coursera. Practical course, mostly focus on Keras [Coursera Course]( https://www.coursera.org/professional-certificates/tensorflow-in-practice#courses). 
 
 4. **Machine Learning -Theory-**: Good coverage of theories and principles of machine learning and learning from data (more theoretical, but really useful): [Video Lectures](https://youtu.be/mbyG85GZ0PI)
+5. **Youtube Channel**: Excellent Video Lessons on Deep Learning [Alexander Amini](https://www.youtube.com/channel/UCtslD4DGH6PKyG_1gFAX7sg)
 
 ### 4. Some Datasets to Use 
 
