@@ -1,7 +1,12 @@
 # Readme
 
-I will be regularly updating this repository to include more tutorials on `Python` with `streamlit` for machine learning and machine vision applications. Below is an overview of available demos. Check the corresponding subfolders for more details, code, and other explanation. If you have no experience with Python programming, then you need to start [Here](Python), there is a list of resources for learning Python and relevant tools, and also a notebook with some Python code covering the basic concepts such as variables, loops, etc…
-### (1) Simple Linear ModelA tutorial on linear regression using Python (basics), will teach you more python skills, and the basics of Linear Models. Also, we will use *streamlit* to build an interactive application to all interaction with the underlying models. More details can be found here [Python Intro](Python-Intro/). By the end of this tutorial, you should be able to have an application like the one below to perform simple predictions
+I will be regularly updating this repository to include more tutorials on `Python` with `streamlit` for machine learning and machine vision applications. Below is an overview of available demos. Check the corresponding subfolders for more details, code, and other explanation. 
+
+If you have no experience with Python programming, then you need to start [Here](Python), there is a list of resources for learning Python and relevant tools, and also a notebook with some Python code covering the basic concepts such as variables, loops, etc…
+
+### (1) Simple Linear Model
+
+A tutorial on linear regression using Python (basics), will teach you more python skills, and the basics of Linear Models. Also, we will use *streamlit* to build an interactive application to all interaction with the underlying models. More details can be found here [Python Intro](Python-Intro/). By the end of this tutorial, you should be able to have an application like the one below to perform simple predictions
 
 ![alt text](https://github.com/heyad/Teaching/blob/master/Python-Intro/figure/streamlit.gif)
 
@@ -10,7 +15,8 @@ I will be regularly updating this repository to include more tutorials on `Pytho
 Logistic Regression is a Supervised Machine Learning **classification** algorithm. We used it to predict the probability that an event will occur. The response variable (what we try to
 predict), is a binary variable. In other words it has two classes (i.e.~pass/ fail). Often represented as 0 and 1 respectively. The Logistic Regression Model predicts \(P(y=1, | X)\), which reads as the probability that \(y\) will happen given \(X\), where \(X\) is the set
 of features (see lecture notes). Code can be found [Here](LR)
-### (3) Face Recognition using SVM
+
+### (3) Face Recognition using SVM
 
 This is a quick demo using SVM to recognise faces from images. It also uses `streamlit` for creating the interactive front-end features. More details at the [SVMFR](SVMFR/) repository.<br>
 
@@ -32,6 +38,17 @@ The tutorial will focus on classification of symbols, more specifically:
 ![alt text](https://github.com/heyad/Teaching/blob/master/RF/Figure/gif.gif)
 
 
+
+### (5) Working with Images using TorchVision (CIFAR-10)
+
+A guided lab notebook for the CM4126 lecture *Working with Images using TorchVision*, using the CIFAR-10 dataset throughout. No previous PyTorch experience is needed. You will:
+
+* Represent images as tensors and build transform pipelines (resize, crop, normalise, augment) with `torchvision.transforms`
+* Load data with `Dataset` and `DataLoader`, and make a proper validation split
+* Make predictions with a pretrained ResNet-18, then adapt it to CIFAR-10 with transfer learning (feature extraction and fine-tuning)
+* Evaluate properly with a confusion matrix, per-class metrics and class-imbalance techniques, and apply best practices such as learning-rate choice, schedulers and early stopping
+
+The notebook is saved with its outputs and runs on a laptop CPU in quick mode. Code and setup instructions are [Here](TorchVision-CIFAR10/)
 
 #### Comments / Questions 
 
