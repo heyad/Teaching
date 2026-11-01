@@ -1,0 +1,10 @@
+torch
+torchvision
+matplotlib
+numpy
+scikit-learn
+ipykernel
+tqdm
+certifi                # CA certificates for downloads (fixes SSL errors on macOS python.org builds)
+# Optional: only needed if you set RUN_OPTUNA = True in section 7
+optuna
